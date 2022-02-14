@@ -9,7 +9,7 @@ More to come soon!
 ```markdown
 Ricky's favorite terms and phrases
 
-- YEAH BOYEE (shout out to that one kid who had the world record for the longest yeah boy in history)
+- YEAH BOYEE (currently the holder of the second longest yeah boy)
 - VERY CLEAN (thank you Eric Andre)
 - BRUV (thank you Guy Ritchie)
 - DIUUUUUU (don't say this lol)
