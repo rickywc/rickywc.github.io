@@ -4,7 +4,16 @@ Hello, this is my first website.
 
 ### I always find time to do things this like this at 2am.
 
-This is nice because I can build this out in public.
+I have a long way to go.
+
+```markdown
+Ricky's favorite terms and phrases
+
+# YEAH BOYEE
+## VERY CLEAN (thank you Eric Andre)
+### BRUV (thank you Guy Ritchie)
+```
+
 
 ```markdown
 Syntax highlighted code block
