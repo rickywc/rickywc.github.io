@@ -9,9 +9,10 @@ I have a long way to go.
 ```markdown
 Ricky's favorite terms and phrases
 
-# YEAH BOYEE
-## VERY CLEAN (thank you Eric Andre)
-### BRUV (thank you Guy Ritchie)
+- YEAH BOYEE
+- VERY CLEAN (thank you Eric Andre)
+- BRUV (thank you Guy Ritchie)
+- DIUUUUUU (don't say this lol)
 ```
 
 
