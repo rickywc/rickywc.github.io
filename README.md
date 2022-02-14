@@ -2,9 +2,9 @@
 
 Hello, this is my first website.
 
-### I always find time to do things this like this at 2am.
+### This is a 2AM kind of situation we have on our hands.
 
-I have a long way to go.
+More to come soon!
 
 ```markdown
 Ricky's favorite terms and phrases
