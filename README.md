@@ -1,8 +1,8 @@
 ## GENERALIST
 
-Hello, this is my website. This is my first website. I'm so bad at this.
+Hello, this is my first website.
 
-### I won't be bad forever.
+### I always find time to do things this like this at 2am.
 
 This is nice because I can build this out in public.
 
