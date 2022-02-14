@@ -2,7 +2,7 @@
 
 Hello, this is my first website.
 
-### This is a 2AM kind of situation we have on our hands.
+### This is a 2AM kind of website.
 
 More to come soon!
 
