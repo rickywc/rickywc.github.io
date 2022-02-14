@@ -1,14 +1,12 @@
 ## GENERALIST
 
 Hello, this is my first website.
-
-### This is a 2AM kind of website.
-
+Started off as a 2AM type of project. 
 More to come soon!
 
-```markdown
-Ricky's favorite terms and phrases
+### Ricky's favorite terms and phrases
 
+```markdown
 - YEAH BOYEE (currently the holder of the second longest yeah boy)
 - VERY CLEAN (thank you Eric Andre)
 - BRUV (thank you Guy Ritchie)
